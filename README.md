@@ -1,2 +1,2 @@
 # db_regulon
-data base from regularDB to download from R
+data base from regulonDB to download from R
